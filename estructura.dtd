@@ -1,6 +1,6 @@
 <!ELEMENT tecnologia (item+)>
 
-<!ELEMENT item (nombre, marca, precio)>
+<!ELEMENT item (nombre, marca, precio, stock)>
 
 <!ATTLIST item id CDATA #REQUIRED>
 
