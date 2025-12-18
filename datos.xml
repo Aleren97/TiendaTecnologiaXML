@@ -12,10 +12,44 @@
 
     </item>
     
-    <item id="item2"></item>
-    <item id="item3"></item>
-    <item id="item4"></item>
-    <item id="item5"></item>
-    <item id="item6"></item>
+    <item id="item2">
+    
+        <nombre>Mouse</nombre>
+        <marca>Tempest</marca>
+        <precio>25.50</precio>
+    
+    </item>
+
+    <item id="item3">
+    
+        <nombre>Monitor</nombre>
+        <marca>AMD</marca>
+        <precio>89.69</precio>
+    
+    </item>
+
+    <item id="item4">
+    
+        <nombre>RAM 32GB</nombre>
+        <marca>Corsair</marca>
+        <precio>300</precio>
+    
+    </item>
+
+    <item id="item5">
+    
+        <nombre>Procesador</nombre>
+        <marca>AMD</marca>
+        <precio>499.95</precio>
+    
+    </item>
+
+    <item id="item6">
+    
+        <nombre>Mousepad XL</nombre>
+        <marca>Marvel</marca>
+        <precio>39.99</precio>
+    
+    </item>
 
 </tecnologia>
