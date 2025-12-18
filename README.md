@@ -45,7 +45,8 @@
         - marca -> string
         - precio -> integer
         - stock -> integer
+    El string es una variable de tipo texto y el integer es otra variable de tipo número.
 
 
 ## DIFICULTADES ENCONTRADAS DURANTE EL DESARROLLO
-    
+    Las dificultades que se tuvieron dentro del trabajo fueron el implementar el cómo saber que los distintos archivos estaban validados lo cual se solucionó mediante una busqueda en internet de la extensión que permitía ver esta validación.
