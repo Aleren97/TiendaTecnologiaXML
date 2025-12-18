@@ -1,0 +1,13 @@
+<!ELEMENT tecnologia (item+)>
+
+<!ELEMENT item (nombre, marca, precio)>
+
+<!ATTLIST item id CDATA #REQUIRED>
+
+<!ELEMENT nombre (#PCDATA)>
+
+<!ELEMENT marca (#PCDATA)>
+
+<!ELEMENT precio (#PCDATA)>
+
+<!ELEMENT stock (#PCDATA)>
