@@ -50,3 +50,6 @@
 
 ## DIFICULTADES ENCONTRADAS DURANTE EL DESARROLLO
     Las dificultades que se tuvieron dentro del trabajo fueron el implementar el cómo saber que los distintos archivos estaban validados lo cual se solucionó mediante una busqueda en internet de la extensión que permitía ver esta validación.
+
+## ¿QUIÉN HIZO QUÉ?
+    Este trabajo fue hecho en su totalidad por el alumno Renzo Alejandro Vidalon Pesantes.
