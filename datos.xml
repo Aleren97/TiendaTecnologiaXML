@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE biblioteca SYSTEM "estructura.dtd">
+<!DOCTYPE tecnologia SYSTEM "estructura.dtd">
 
 <tecnologia>
 
@@ -9,6 +9,7 @@
         <nombre>Teclado</nombre>
         <marca>Ryzen</marca>
         <precio>49.99</precio>
+        <stock>500</stock>
 
     </item>
     
@@ -17,6 +18,7 @@
         <nombre>Mouse</nombre>
         <marca>Tempest</marca>
         <precio>25.50</precio>
+        <stock>500</stock>
     
     </item>
 
@@ -25,6 +27,7 @@
         <nombre>Monitor</nombre>
         <marca>AMD</marca>
         <precio>89.69</precio>
+        <stock>60</stock>
     
     </item>
 
@@ -33,6 +36,7 @@
         <nombre>RAM 32GB</nombre>
         <marca>Corsair</marca>
         <precio>300</precio>
+        <stock>200</stock>
     
     </item>
 
@@ -41,6 +45,7 @@
         <nombre>Procesador</nombre>
         <marca>AMD</marca>
         <precio>499.95</precio>
+        <stock>150</stock>
     
     </item>
 
@@ -49,6 +54,7 @@
         <nombre>Mousepad XL</nombre>
         <marca>Marvel</marca>
         <precio>39.99</precio>
+        <stock>80</stock>
     
     </item>
 
